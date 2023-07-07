@@ -1,0 +1,8 @@
+BUILD
+.cache
+.clangd
+.mbed
+compile_commands.json
+mbed-os
+mext_encoder_stm32
+mext_nspwmout_stm32

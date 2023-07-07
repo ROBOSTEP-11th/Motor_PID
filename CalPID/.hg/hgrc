@@ -1,0 +1,5 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+mbed-studio-cache = /home/studio/mbed-studio-data/library-cache/os.mbed.com/teams/ROBOSTEP_LIBRARY/code/CalPID_2022
+default = https://os.mbed.com/teams/ROBOSTEP_LIBRARY/code/CalPID_2022/
